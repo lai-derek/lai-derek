@@ -12,15 +12,14 @@ A transistor-based audio oscillator inspired by a DJ deck, with an RC-filtered o
 
 A Windows app for transcribing English audio and video files and dictating text. Offers AI cleanup for wording and punctuation, formatting as prose or structured notes, and summaries. Preserves the original transcript alongside cleaned text, notes, and summaries, with playback, editing, search, and export. Works offline after model download.
 
-### [Opportunity Discovery](https://github.com/lai-derek/opportunity-discovery)
+### [Student Workspace](https://github.com/lai-derek/student-workspace)
 
-Internship, research, and program listings are spread across hundreds of company job boards and community lists. Opportunity Discovery collects them in one place, tracks what changed, and ranks them against a student's profile. A local dashboard is for reviewing leads and tracking applications.
+Shared infrastructure for a private student workspace containing profile information, source documents, and application drafts. Handles installation, updates, backups, saved evidence, and shared application-writing skills. Two tools use the same records, and one [setup download](https://github.com/lai-derek/student-workspace/releases/latest) installs either or both:
 
-### [Academic Planning](https://github.com/lai-derek/academic-planning)
+- **[Opportunity Discovery](https://github.com/lai-derek/opportunity-discovery):** Collects public internship, research, program, and event listings, tracks changes, and screens leads against a profile. A searchable dashboard supports reviewing leads and tracking applications.
+- **[Academic Planning](https://github.com/lai-derek/academic-planning):** Tracks UCLA degree requirements, credit, and course plans, builds ranked section schedules, and generates an Excel planner and advising reports.
 
-Planning UCLA courses means cross-checking a degree audit, transfer and AP credit, and each quarter's section times. Academic Planning keeps those records together, builds ranked section schedules, and generates an Excel planner and an advising summary.
-
-Both tools install from one [setup download](https://github.com/lai-derek/student-workspace/releases/latest) through [Student Workspace](https://github.com/lai-derek/student-workspace), which keeps a student's documents, backups, and application drafts in a private folder. You bring your own AI agent (Claude Code or Codex) to organize records, research leads, and draft applications; the tools run locally.
+Users can work with their own AI agent to organize records, investigate eligibility, plan courses, and prepare drafts from profile information and source documents. The tools themselves run without a built-in AI service.
 
 ## Interests
 
